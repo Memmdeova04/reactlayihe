@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactlayihe/static/css/main.e6c13ad2.css",
+    "main.js": "/reactlayihe/static/js/main.759d8e0a.js",
+    "index.html": "/reactlayihe/index.html",
+    "main.e6c13ad2.css.map": "/reactlayihe/static/css/main.e6c13ad2.css.map",
+    "main.759d8e0a.js.map": "/reactlayihe/static/js/main.759d8e0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.759d8e0a.js"
+  ]
+}
